@@ -16,9 +16,6 @@
   * [二、駕照轉換](li-shi-sheng-huo/zhao.md)
   * [三、換發居留簽證](li-shi-sheng-huo/ju-liu.md)
 * [肆、畢業以後](yi/README.md)
-  * [二、業界工作](yi/gong-zuo-shen/README.md)
-    * [瑞士工作簽證申請](yi/gong-zuo-shen/gong-zuo-shen.md)
-    * [在瑞士找工作](yi/gong-zuo-shen/zai-rui-shi-zhao-gong-zuo.md)
-    * [在其他歐洲國家找工作](yi/gong-zuo-shen/zai-qi-ta-zhou-jia-zhao-gong-zuo.md)
-    * [薪資待遇](yi/gong-zuo-shen/xin-dai-yu.md)
+  * [薪資待遇](yi/xin-dai-yu.md)
+  * [在其他歐洲國家找工作](yi/zai-qi-ta-zhou-jia-zhao-gong-zuo.md)
 
